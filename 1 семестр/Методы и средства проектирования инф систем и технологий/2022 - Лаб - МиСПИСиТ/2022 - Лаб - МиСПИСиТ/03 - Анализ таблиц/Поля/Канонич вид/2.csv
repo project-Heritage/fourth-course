@@ -1,0 +1,22 @@
+DATA;Row Heading ;Column Heading
+yes;title|Bpwin;functional orientation|Средства анализа и проектирования
+no;title|Bpwin;functional orientation|Средства проектирования баз данных и файлов
+no;title|Bpwin;functional orientation|Средства программирования
+yes;title|CASE.Аналитик;functional orientation|Средства анализа и проектирования
+no;title|CASE.Аналитик;functional orientation|Средства проектирования баз данных и файлов
+no;title|CASE.Аналитик;functional orientation|Средства программирования
+no;title|Erwin;functional orientation|Средства анализа и проектирования
+yes;title|Erwin;functional orientation|Средства проектирования баз данных и файлов
+no;title|Erwin;functional orientation|Средства программирования
+no;title|S-Designor;functional orientation|Средства анализа и проектирования
+yes;title|S-Designor;functional orientation|Средства проектирования баз данных и файлов
+no;title|S-Designor;functional orientation|Средства программирования
+no;title|SQL ;functional orientation|Средства анализа и проектирования
+no;title|SQL ;functional orientation|Средства проектирования баз данных и файлов
+yes;title|SQL ;functional orientation|Средства программирования
+no;title|Windows;functional orientation|Средства анализа и проектирования
+no;title|Windows;functional orientation|Средства проектирования баз данных и файлов
+yes;title|Windows;functional orientation|Средства программирования
+no;title|Power Builder;functional orientation|Средства анализа и проектирования
+no;title|Power Builder;functional orientation|Средства проектирования баз данных и файлов
+yes;title|Power Builder;functional orientation|Средства программирования

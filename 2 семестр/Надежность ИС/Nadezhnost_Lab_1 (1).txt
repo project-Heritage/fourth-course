@@ -1,0 +1,26 @@
+rmult 111
+ex FUNCTION RN1,c24
+        0,0/.1,.104/.2,.222/.3,.355/.4,.509/.5,.69/.6,.915
+        .7,1.2/.75,1.38/.8,1.6/.84,1.85/.88,2.12/.9,2.3
+        .92,2.52/.94,2.81/.95,2.99/.96,3.2/.97,3.5/.98,3.9
+        .99,4.6/.995,5.3/.998,6.2/.999,7/.9998,8
+num fvariable N$GO@2
+time fvariable p2-p1
+
+		
+	GENERATE	360,120
+	SEIZE	comp		
+	ADVANCE	240	
+	RELEASE	comp
+good 	TERMINATE 1	
+
+	GENERATE	120,fn$ex
+GO	ADVANCE	1	
+	TEST E	V$num,0,ter	
+	PREEMPT	comp,,away,,re
+	RETURN	comp	
+ter	TERMINATE	
+away 	terminate 1
+
+
+start 100000

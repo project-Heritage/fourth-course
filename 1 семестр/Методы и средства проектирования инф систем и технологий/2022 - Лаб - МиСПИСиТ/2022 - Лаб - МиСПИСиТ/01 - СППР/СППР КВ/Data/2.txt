@@ -1,0 +1,42 @@
+[t]=t01
+[d]
+t-001 задача 001
+[a]
+a=aaa
+b=bbb
+c=ccc
+[r]
+a c b 1=0 0 0
+a b c 2=0 0 0
+b c a 1=0 0 0
+[t]=t04
+[d]
+[a]
+a=aaa
+c=ccc
+d=ddd
+[r]
+a c d 2=0 0 0
+c d a 1=0 0 0
+[t]=t08
+[d]
+[a]
+a=aaa
+b=bbb
+c=ccc
+d=ddd
+[r]
+a b c d 8=0 0 0 0
+a c d b 3=0 0 0 0
+d c b a 5=0 0 0 0
+[t]=t09
+[d]
+[a]
+a=aaa
+b=bbb
+c=ccc
+d=ddd
+[r]
+a b c d 8=0 0 0 0
+d c a b 5=0 0 0 0
+a c d b 3=0 0 0 0

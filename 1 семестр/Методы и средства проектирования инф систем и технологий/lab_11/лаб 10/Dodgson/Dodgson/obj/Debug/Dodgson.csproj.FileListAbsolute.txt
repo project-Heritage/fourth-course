@@ -1,0 +1,21 @@
+C:\Users\Innokentiy\source\repos\Dodgson\Dodgson\bin\Debug\Dodgson.exe.config
+C:\Users\Innokentiy\source\repos\Dodgson\Dodgson\bin\Debug\Dodgson.exe
+C:\Users\Innokentiy\source\repos\Dodgson\Dodgson\bin\Debug\Dodgson.pdb
+C:\Users\Innokentiy\source\repos\Dodgson\Dodgson\obj\Debug\Dodgson.csprojAssemblyReference.cache
+C:\Users\Innokentiy\source\repos\Dodgson\Dodgson\obj\Debug\Dodgson.Form1.resources
+C:\Users\Innokentiy\source\repos\Dodgson\Dodgson\obj\Debug\Dodgson.Properties.Resources.resources
+C:\Users\Innokentiy\source\repos\Dodgson\Dodgson\obj\Debug\Dodgson.csproj.GenerateResource.cache
+C:\Users\Innokentiy\source\repos\Dodgson\Dodgson\obj\Debug\Dodgson.csproj.CoreCompileInputs.cache
+C:\Users\Innokentiy\source\repos\Dodgson\Dodgson\obj\Debug\Dodgson.exe
+C:\Users\Innokentiy\source\repos\Dodgson\Dodgson\obj\Debug\Dodgson.pdb
+D:\.Учеба\4 курс\1 семестр\Методы и средства проектирования инф систем и технологий\lab_11\лаб 10\Dodgson\Dodgson\bin\Debug\Dodgson.exe.config
+D:\.Учеба\4 курс\1 семестр\Методы и средства проектирования инф систем и технологий\lab_11\лаб 10\Dodgson\Dodgson\bin\Debug\Dodgson.exe
+D:\.Учеба\4 курс\1 семестр\Методы и средства проектирования инф систем и технологий\lab_11\лаб 10\Dodgson\Dodgson\bin\Debug\Dodgson.pdb
+D:\.Учеба\4 курс\1 семестр\Методы и средства проектирования инф систем и технологий\lab_11\лаб 10\Dodgson\Dodgson\obj\Debug\Dodgson.csproj.AssemblyReference.cache
+D:\.Учеба\4 курс\1 семестр\Методы и средства проектирования инф систем и технологий\lab_11\лаб 10\Dodgson\Dodgson\obj\Debug\Dodgson.csproj.SuggestedBindingRedirects.cache
+D:\.Учеба\4 курс\1 семестр\Методы и средства проектирования инф систем и технологий\lab_11\лаб 10\Dodgson\Dodgson\obj\Debug\Dodgson.Form1.resources
+D:\.Учеба\4 курс\1 семестр\Методы и средства проектирования инф систем и технологий\lab_11\лаб 10\Dodgson\Dodgson\obj\Debug\Dodgson.Properties.Resources.resources
+D:\.Учеба\4 курс\1 семестр\Методы и средства проектирования инф систем и технологий\lab_11\лаб 10\Dodgson\Dodgson\obj\Debug\Dodgson.csproj.GenerateResource.cache
+D:\.Учеба\4 курс\1 семестр\Методы и средства проектирования инф систем и технологий\lab_11\лаб 10\Dodgson\Dodgson\obj\Debug\Dodgson.csproj.CoreCompileInputs.cache
+D:\.Учеба\4 курс\1 семестр\Методы и средства проектирования инф систем и технологий\lab_11\лаб 10\Dodgson\Dodgson\obj\Debug\Dodgson.exe
+D:\.Учеба\4 курс\1 семестр\Методы и средства проектирования инф систем и технологий\lab_11\лаб 10\Dodgson\Dodgson\obj\Debug\Dodgson.pdb

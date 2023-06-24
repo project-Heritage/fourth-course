@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtendedGpssModel>
+  <Lines>
+    <Line Id="1">RMULT 221</Line>
+    <Line Id="2">EXPON1 FUNCTION  RN1,C24</Line>
+    <Line Id="3">0,0/.100,.104/.200,.222/.300,.355/.400,.509/.500,.690/.600,.915</Line>
+    <Line Id="4">0.700,1.200/.750,1.380/.800,1.600/.840,1.830/.880,2.120/.900,2.300</Line>
+    <Line Id="5">.920,2.520/.940,2.810/.950,2.990/.960,3.200/.970,3.500/.980,3.900</Line>
+    <Line Id="6">.990,4.600/.995,5.300/.998,6.200/.999,7/1,8</Line>
+    <Line Id="7"></Line>
+    <Line Id="8">GENERATE ,,,3</Line>
+    <Line Id="9">L1 SPLIT 1,L2</Line>
+    <Line Id="10">SEIZE COMP</Line>
+    <Line Id="11">ADVANCE 20,FN$EXPON1</Line>
+    <Line Id="12">RELEASE COMP</Line>
+    <Line Id="13">TERMINATE </Line>
+    <Line Id="14">L2 ADVANCE 500</Line>
+    <Line Id="15">TRANSFER ,L1</Line>
+    <Line Id="16"></Line>
+    <Line Id="17">GENERATE ,,,1</Line>
+    <Line Id="18">L3 ADVANCE 50</Line>
+    <Line Id="19">TEST E F$COMP,1,L4</Line>
+    <Line Id="20">SEIZE NUMBER</Line>
+    <Line Id="21">RELEASE NUMBER</Line>
+    <Line Id="22">L4 ADVANCE 450</Line>
+    <Line Id="23">TRANSFER ,L3</Line>
+    <Line Id="24"></Line>
+    <Line Id="25">GENERATE 50000000</Line>
+    <Line Id="26">TERMINATE 1</Line>
+    <Line Id="27">START 1</Line>
+  </Lines>
+</ExtendedGpssModel>

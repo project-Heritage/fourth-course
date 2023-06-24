@@ -1,0 +1,7 @@
+DATA;Row Heading ;Column Heading
+Design/IDEF;criterion|Поддерживаемый стандарт;title
+Designer2000;criterion|Контроль и обеспечение целостности проектных данных;title
+Design/IDEF;criterion|Репрезентативность;title
+Bpwin;criterion|Простота освоения продукта;title
+Bpwin;criterion|Функционально-стоимостной анализ;title
+Designer2000;criterion|Глобальные приоритеты;title

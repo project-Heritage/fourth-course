@@ -1,0 +1,9 @@
+[T]=t04
+[D]
+[A]
+a=aaa
+c=ccc
+d=ddd
+[R]
+a c d 2=0 0 0
+c d a 1=0 0 0

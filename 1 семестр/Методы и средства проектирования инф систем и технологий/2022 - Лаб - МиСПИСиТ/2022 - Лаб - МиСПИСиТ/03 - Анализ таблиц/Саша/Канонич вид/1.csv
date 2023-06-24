@@ -1,0 +1,28 @@
+DATA;Row Heading ;Column Heading
+yes;title|MS Project;CASE LEVEL|Upper CASE
+yes;title|MS Project;CASE LEVEL|Middle CASE
+no;title|MS Project;CASE LEVEL|Low CASE
+yes;title|SE Companion;CASE LEVEL|Upper CASE
+yes;title|SE Companion;CASE LEVEL|Middle CASE
+no;title|SE Companion;CASE LEVEL|Low CASE
+no;title|CASE.Аналитик;CASE LEVEL|Upper CASE
+yes;title|CASE.Аналитик;CASE LEVEL|Middle CASE
+no;title|CASE.Аналитик;CASE LEVEL|Low CASE
+no;title|Silverrun;CASE LEVEL|Upper CASE
+yes;title|Silverrun;CASE LEVEL|Middle CASE
+no;title|Silverrun;CASE LEVEL|Low CASE
+no;title|DESIGNER/2000;CASE LEVEL|Upper CASE
+no;title|DESIGNER/2000;CASE LEVEL|Middle CASE
+yes;title|DESIGNER/2000;CASE LEVEL|Low CASE
+no;title|Power Builder;CASE LEVEL|Upper CASE
+no;title|Power Builder;CASE LEVEL|Middle CASE
+yes;title|Power Builder;CASE LEVEL|Low CASE
+no;title|Delphi;CASE LEVEL|Upper CASE
+no;title|Delphi;CASE LEVEL|Middle CASE
+yes;title|Delphi;CASE LEVEL|Low CASE
+no;title|Uniface;CASE LEVEL|Upper CASE
+no;title|Uniface;CASE LEVEL|Middle CASE
+yes;title|Uniface;CASE LEVEL|Low CASE
+no;title|JAM;CASE LEVEL|Upper CASE
+no;title|JAM;CASE LEVEL|Middle CASE
+yes;title|JAM;CASE LEVEL|Low CASE

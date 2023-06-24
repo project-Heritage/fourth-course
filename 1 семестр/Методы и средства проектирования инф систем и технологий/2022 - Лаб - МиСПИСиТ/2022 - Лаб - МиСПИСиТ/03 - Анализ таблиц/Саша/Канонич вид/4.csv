@@ -1,0 +1,13 @@
+DATA;Row Heading ;Column Heading
+yes;title|MySQL Workbench Community Edition;cost|free
+yes;title|MySQL Workbench Community Edition;cost|purchase
+yes;title|AllFusion ERwin Data ;cost|free
+no;title|AllFusion ERwin Data ;cost|purchase
+no;title|ApexSQLD;cost|free
+yes;title|ApexSQLD;cost|purchase
+yes;title|Navicat;cost|free
+yes;title|Navicat;cost|purchase
+yes;title|GetReport ;cost|free
+yes;title|GetReport ;cost|purchase
+yes;title|DataExpress;cost|free
+no;title|DataExpress;cost|purchase
